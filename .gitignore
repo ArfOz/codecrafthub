@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# JSON data file (optional: remove this line if you want to track course data)
+backend/courses.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
